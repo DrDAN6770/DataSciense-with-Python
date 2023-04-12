@@ -1,2 +1,1 @@
-# DataSciense-with-Python
-# level 0 社群共學
+# DataSciense with Python
