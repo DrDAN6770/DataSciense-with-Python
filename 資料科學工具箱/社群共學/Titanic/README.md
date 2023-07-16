@@ -1,6 +1,6 @@
 Titanic - Machine Learning from Disaster
 ===
-[Kaggle Link](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009?datasetId=4458&sortBy=relevance&sort=votes](https://www.kaggle.com/competitions/titanic](https://www.kaggle.com/c/titanic)
+[Kaggle Link](https://www.kaggle.com/competitions/titanic](https://www.kaggle.com/c/titanic)
 
 # Conclusion
 ## Data Set
