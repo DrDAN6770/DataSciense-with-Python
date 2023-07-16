@@ -1,6 +1,6 @@
 Titanic - Machine Learning from Disaster
 ===
-[Kaggle Link](https://www.kaggle.com/competitions/titanic](https://www.kaggle.com/c/titanic)
+[Kaggle Link](https://www.kaggle.com/c/titanic)
 
 # Conclusion
 ## Data Set
